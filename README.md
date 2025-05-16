@@ -8,4 +8,13 @@
 
 ### Транспонування матриці:
 Процес, в резултаті якого отримується матриця в якої рядки стають стовпцями, і стовпці рядками
-![]()
+![](https://github.com/ppc-ntu-khpi/advarrays-35-Adey4k/blob/master/other/Screenshot%202025-05-16%20201516.png)
+
+---
+
+### Робота програми:
+![](https://github.com/ppc-ntu-khpi/advarrays-35-Adey4k/blob/master/other/photo_2025-05-16_20-03-49.jpg)
+![](https://github.com/ppc-ntu-khpi/advarrays-35-Adey4k/blob/master/other/Screenshot%202025-05-16%20201516.png)
+<br>
+Фрагмент javadoc документації:
+![](https://github.com/ppc-ntu-khpi/advarrays-35-Adey4k/blob/master/other/Screenshot%202025-05-16%20210050.png)
